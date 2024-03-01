@@ -2,5 +2,5 @@
 
 Contributor:
 
-- `<yourname> - <id>`
+- Yehezkiel Imannuel - BE7988058
 - Bob
